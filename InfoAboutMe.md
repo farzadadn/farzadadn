@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @farzadadn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-farzadadn/farzadadn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- hi guys ✌🏻
+- my name is Farzad 😎
+- I'm 18 years old 🤧
+- I'm developer for C++ && C# && Android 💻
+- i can speak English, Germany, Persian 🌟
+- you can contact me on Telegram (@SATANIC_6x111) 🔥
